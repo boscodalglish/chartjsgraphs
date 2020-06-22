@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Demo [Live](https://chartjs-hooks.surge.sh/).
 
 ## Available Scripts
 
