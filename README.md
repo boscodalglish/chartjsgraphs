@@ -1,4 +1,4 @@
-Demo [Live](https://chartjs-hooks.surge.sh/).
+<h1>[Demo Live](https://chartjs-hooks.surge.sh/)</h1>
 
 ## Available Scripts
 
